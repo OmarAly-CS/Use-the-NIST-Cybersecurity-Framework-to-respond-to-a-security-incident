@@ -1,0 +1,2 @@
+# Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident
+A structured template for analyzing cybersecurity incidents using the NIST Cybersecurity Framework (CSF). Includes sections for identifying, protecting, detecting, responding, and recovering from attacks like DDoS. Ideal for documenting incidents, creating response plans, and training IT/security teams. Fully customizable and easy to use.
